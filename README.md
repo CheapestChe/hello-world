@@ -1,2 +1,4 @@
 # hello-world
-First hello
+Hello stupid human!
+I'm God of the code!
+You should feel worried!
